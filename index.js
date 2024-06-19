@@ -13,4 +13,3 @@ const server = http.createServer((req,res) => {
 server.listen(4000 , ()=> {
     console.log(`server listining on 4000`)
 })
-
